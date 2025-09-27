@@ -45,7 +45,3 @@ An AI-powered system for detecting no-balls in cricket matches using machine lea
 ## 🤝 Contributing
 
 Feel free to contribute to this project by creating issues or submitting pull requests.
-
-## 📝 License
-
-This project is licensed under the MIT License.
