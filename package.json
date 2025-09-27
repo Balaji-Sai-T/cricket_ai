@@ -1,8 +1,13 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "cricket-ai",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://balaji-sai-t.github.io/cricket_ai/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Balaji-Sai-T/cricket_ai.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
