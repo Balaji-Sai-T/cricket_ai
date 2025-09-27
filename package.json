@@ -3,15 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://balaji-sai-t.github.io/cricket_ai/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Balaji-Sai-T/cricket_ai.git"
-  },
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
-    "lint": "eslint .",
+    "build": "vite build",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit -p tsconfig.app.json"
   },
