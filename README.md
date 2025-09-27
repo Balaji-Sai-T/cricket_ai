@@ -25,6 +25,15 @@ An AI-powered system for detecting no-balls in cricket matches using machine lea
 3. **Analytics**: Provides insights and statistics
 4. **CI/CD Pipeline**: Automated testing and deployment
 
+## 📚 Dataset
+
+The project includes a structured dataset for training the no-ball detection model:
+
+- Located in the `dataset/` directory
+- Includes bowling action images and annotations
+- Split into train/validation/test sets
+- Detailed documentation in `dataset/README.md`
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
